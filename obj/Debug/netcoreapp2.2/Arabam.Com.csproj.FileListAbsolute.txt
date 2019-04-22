@@ -1,0 +1,14 @@
+C:\Users\Ilgaz\source\repos\Arabam.Com\Arabam.Com\bin\Debug\netcoreapp2.2\Arabam.Com.deps.json
+C:\Users\Ilgaz\source\repos\Arabam.Com\Arabam.Com\bin\Debug\netcoreapp2.2\Arabam.Com.runtimeconfig.json
+C:\Users\Ilgaz\source\repos\Arabam.Com\Arabam.Com\bin\Debug\netcoreapp2.2\Arabam.Com.runtimeconfig.dev.json
+C:\Users\Ilgaz\source\repos\Arabam.Com\Arabam.Com\bin\Debug\netcoreapp2.2\Arabam.Com.dll
+C:\Users\Ilgaz\source\repos\Arabam.Com\Arabam.Com\obj\Debug\netcoreapp2.2\Arabam.Com.csprojAssemblyReference.cache
+C:\Users\Ilgaz\source\repos\Arabam.Com\Arabam.Com\obj\Debug\netcoreapp2.2\Arabam.Com.csproj.CoreCompileInputs.cache
+C:\Users\Ilgaz\source\repos\Arabam.Com\Arabam.Com\obj\Debug\netcoreapp2.2\Arabam.Com.RazorAssemblyInfo.cache
+C:\Users\Ilgaz\source\repos\Arabam.Com\Arabam.Com\obj\Debug\netcoreapp2.2\Arabam.Com.RazorAssemblyInfo.cs
+C:\Users\Ilgaz\source\repos\Arabam.Com\Arabam.Com\obj\Debug\netcoreapp2.2\Arabam.Com.AssemblyInfoInputs.cache
+C:\Users\Ilgaz\source\repos\Arabam.Com\Arabam.Com\obj\Debug\netcoreapp2.2\Arabam.Com.AssemblyInfo.cs
+C:\Users\Ilgaz\source\repos\Arabam.Com\Arabam.Com\obj\Debug\netcoreapp2.2\Arabam.Com.RazorTargetAssemblyInfo.cache
+C:\Users\Ilgaz\source\repos\Arabam.Com\Arabam.Com\bin\Debug\netcoreapp2.2\Arabam.Com.pdb
+C:\Users\Ilgaz\source\repos\Arabam.Com\Arabam.Com\obj\Debug\netcoreapp2.2\Arabam.Com.dll
+C:\Users\Ilgaz\source\repos\Arabam.Com\Arabam.Com\obj\Debug\netcoreapp2.2\Arabam.Com.pdb
